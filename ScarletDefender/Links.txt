@@ -1,0 +1,24 @@
+Project Link
+------------
+https://github.com/giladof/Scarlet
+
+AntiVirus 
+---------
+http://www.bitdefender.com/files/KnowledgeBase/file/Antivirus_Defense-in-Depth_Guide.pdf
+https://technet.microsoft.com/en-us/library/cc162791.aspx
+
+DLL Injection
+-------------
+https://msdn.microsoft.com/en-us/library/aa288468(v=vs.71).aspx
+http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
+http://www.codeproject.com/Articles/4610/Three-Ways-to-Inject-Your-Code-into-Another-Proces
+http://securityxploded.com/dll-injection-and-hooking.php
+
+Address Table Hooking
+---------------------
+http://www.securitytube.net/video/942
+
+C++ Driver development
+----------------------
+http://www.codeproject.com/Articles/9504/Driver-Development-Part-Introduction-to-Drivers
+
